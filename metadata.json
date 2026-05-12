@@ -1,0 +1,12 @@
+{
+  "name": "CallSync Telegram",
+  "description": "Автоматизация захвата контактов из входящих звонков и синхронизация с Telegram. Мобильное приложение для управления лидами.",
+  "requestFramePermissions": [
+    "contacts"
+  ],
+  "majorCapabilities": [
+    "Contact management",
+    "Call synchronization logic",
+    "Telegram integration UI"
+  ]
+}
